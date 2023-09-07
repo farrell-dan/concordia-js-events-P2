@@ -27,15 +27,15 @@ If either of these fails, a number of things should happen:
 
 1. A pink error box should be shown. It should have a message about what the problem is and how to fix it:
 
-![A pink error box explains the problem, just above the submit button](../../__lecture/assets/error-box.png)
+![A pink error box explains the problem, just above the submit button](../../lecture/assets/error-box.png)
 
 2. The field in question that needs to be fixed should be given a red outline with a thicker border:
 
-![The “Confirm Password” field has a thick red outline](../../__lecture/assets/input-highlight.png)
+![The “Confirm Password” field has a thick red outline](../../lecture/assets/input-highlight.png)
 
 3. The field in question will be _focused_, indicated by a blue outline:
 
-![The “Confirm Password” field is auto-focused](../../__lecture/assets/focused.png)
+![The “Confirm Password” field is auto-focused](../../lecture/assets/focused.png)
 
 When you start typing, it will update this field.
 

@@ -58,7 +58,7 @@ box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.02), 0 6.7px 5.3px rgba(0, 0, 0, 0.028
 
 At this point, your form should look something like this:
 
-![form css 1](../../__lecture/assets/form_css-1.png)
+![form css 1](../../lecture/assets/form_css-1.png)
 
 Continue styling the html until your version closely matches the screenshot in the main README file.
 
@@ -77,4 +77,4 @@ Here are the colors you'll need:
 
 The "terms of service" text should be a link, but we can set the `href` to `"#"`. We don't need a separate page for the terms themselves.
 
-![Mockup of the final form](../../__lecture/assets/mockup.png)
+![Mockup of the final form](../../lecture/assets/mockup.png)

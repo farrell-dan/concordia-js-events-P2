@@ -1,6 +1,6 @@
 # Exercise 1 - Getting started / HTML
 
-Open `__workshop/exercise-files/index.html` and create all of the required `html` to render the form.
+Open `workshop/exercise-files/index.html` and create all of the required `html` to render the form.
 
 ### Things to consider
 
@@ -12,6 +12,6 @@ Open `__workshop/exercise-files/index.html` and create all of the required `html
 
 Once you're done with that, you should see something like this:
 
-![html form](../../__lecture/assets/form_html.png)
+![html form](../../lecture/assets/form_html.png)
 
 > 🆘 **If you are stuck, or want to compare, you can look at this [hint](./_hints/hint-1.md).**

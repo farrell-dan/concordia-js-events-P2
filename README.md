@@ -4,15 +4,15 @@
 
 ⏲️ _Estimated time required: 45 minutes._
 
-- Look at this chapter again: https://eloquentjavascript.net/15_event.html _Is it clearer now that you've worked with events?_
+- Look at this chapter again: [Handling Events](https://eloquentjavascript.net/15_event.html). _Is it clearer now that you've worked with events?_
 
 ---
 
 ## 🦉 Lecture
 
-- [Lecture 1 - Object Methods](__lecture/lecture-1-fun-object-methods.md)
-- [Lecture 2 - Destructuring](__lecture/lecture-2-fun-destructuring.md)
-- [Lecture 3 - HTML Forms](__lecture/lecture-3-html-forms.md)
+- [Lecture 1 | Object Methods](./lecture/lecture-1-object-methods.md)
+- [Lecture 2 | Destructuring](./lecture/lecture-2-destructuring.md)
+- [Lecture 3 | HTML Forms](./lecture/lecture-3-html-forms.md)
 
 ---
 
@@ -30,7 +30,7 @@ In this workshop, you will be challenged to create a dynamic form.
 
 Here's a screenshot:
 
-![Walkthrough of all validations](./__lecture/assets/validations.gif)
+![Walkthrough of all validations](./lecture/assets/validations.gif)
 
 Your challenge is to add **form validation**, to stop users from signing up with invalid input. Here's a clip:
 
@@ -38,21 +38,13 @@ Your challenge is to add **form validation**, to stop users from signing up with
 
 ---
 
-### Exercise 1 - Getting started / HTML
+### [Exercise 1](./workshop/_readme-files/exercise-1.md) - Getting started / HTML
 
-Open this exercise file: [exercise-1.md](__workshop/_readme-files/exercise-1.md)
+### [Exercise 2](./workshop/_readme-files/exercise-2.md) - Add of the `input` attributes
 
-### Exercise 2 - Add of the `input` attributes
+### [Exercise 3](./workshop/_readme-files/exercise-3.md) - Style it!
 
-Open this exercise file: [exercise-2.md](__workshop/_readme-files/exercise-2.md)
-
-### Exercise 3 - Style it!
-
-Open this exercise file: [exercise-3.md](__workshop/_readme-files/exercise-3.md)
-
-### Exercise 4 - Validation
-
-Open this exercise file: [exercise-4.md](__workshop/_readme-files/exercise-4.md)
+### [Exercise 4](./workshop/_readme-files/exercise-4.md) - Validation
 
 ---
 
@@ -60,9 +52,7 @@ Open this exercise file: [exercise-4.md](__workshop/_readme-files/exercise-4.md)
 
 ---
 
-### Exercise 5 - Error clean-up
-
-Open this exercise file: [exercise-5.md](__workshop/_readme-files/exercise-5.md)
+### [Exercise 5](./workshop/_readme-files/exercise-5.md) - Error clean-up
 
 ---
 
@@ -70,14 +60,8 @@ Open this exercise file: [exercise-5.md](__workshop/_readme-files/exercise-5.md)
 
 ---
 
-### Exercise 6 - Autocomplete
+### [Exercise 6](./workshop/_readme-files/exercise-6.md) - Autocomplete
 
-Open this exercise file: [exercise-6.md](__workshop/_readme-files/exercise-6.md)
+### [Exercise 7](./workshop/_readme-files/exercise-7.md) - The Clear Button
 
-### Exercise 7 - The Clear Button
-
-Open this exercise file: [exercise-7.md](__workshop/_readme-files/exercise-7.md)
-
-### Exercise 8 - Password suggest
-
-Open this exercise file: [exercise-8.md](__workshop/_readme-files/exercise-8.md)
+### [Exercise 8](./workshop/_readme-files/exercise-8.md) - Password suggest

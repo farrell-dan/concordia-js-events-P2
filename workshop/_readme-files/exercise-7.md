@@ -2,8 +2,8 @@
 
 You'll notice in the design, there's a "clear" button:
 
-!["Clear" button](../../__lecture/assets/clear.png)
+!["Clear" button](../../lecture/assets/clear.png)
 
 When the user clicks this button, it should empty all individual text inputs, and untick the "I agree to terms" box.
 
-Use Javascript to make it so!
+Remove the `type` of the `button` and use JavaScript to make it clear the form instead!
