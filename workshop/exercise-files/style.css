@@ -9,6 +9,9 @@
     vertical-align: baseline;
     font-family: "Jost";
 }
+body{
+    background-color: #f2f2f2;
+}
 .wrapper{
     margin-left: auto;
     margin-right: auto;
@@ -25,8 +28,46 @@ input{
     border: revert;
 }
 h1{
+    text-align: center;
     font: revert;
     font-family: "Jost";
-    font-size: 100%;
+    font-size: 300%;
+    margin-bottom: 30px;
+}
 
+.formDiv{
+    display: flex;
+    padding: 5px;
+    justify-content: right;
+}
+#name, #street, #email, #phone, #password, #conPassword{
+    margin-left: 15px;
+    border-radius: 5px;
+    border: solid 1px grey;
+}
+.termsDiv{
+    background-color: #f2f2f2;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 8px;
+}
+#clear{
+    background-color: hsl(333deg, 100%, 44%);
+    color: white;
+}
+#submit{
+    background-color: hsl(256deg, 100%, 44%);
+    color: white;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    padding: 10px 40px;
+    font-weight: bold;
+    border-radius: 10px;
 }
