@@ -5,10 +5,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="style.css" rel="stylesheet" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link href="https://fonts.googleapis.com/css?family=Jost:400,700&display=swap" rel="stylesheet"/>
 
     <title>Signup Form</title>
   </head>
   <body>
+    <div class="wrapper">
+      <h1>Signup Form</h1>
+      <form>
+        <div>
+        <label for="name"> Full name:</label>
+        <input name="name" id="name" type="text" required/>
+      </div>
+      <div>
+        <label for="street">Street address</label>
+        <input name="street" id="street" type="text" required/>
+      </div>
+      <div>
+        <label for="email">Email address</label>
+        <input name="email" id="email" type="email" required/>
+      </div>
+      <div>
+        <label for="phone">Phone number</label>
+        <input name="phone" id="phone" type="text" required/>
+      </div>
+      <div>
+        <label for="password">Password</label>
+        <input name="password" id="password" type="password" required/>
+      </div>
+      <div>
+        <label for="conPassword">Confirm Password</label>
+        <input name="conPassword" id="conPassword" type="password" required/>
+      </div>
+      <div>
+        <input name="terms" id="terms" type="checkbox" required/>
+        <label for="terms"> I agree to the <a href="/"> terms of service.</a></label>
+      </div>
+      <div></div>
+      <footer>
+        <button type="button" id="clear">Clear</button>
+        <button type="button" id="submit">Submit</button>
+      </footer>
+    </form>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
