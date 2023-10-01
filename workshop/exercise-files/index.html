@@ -38,13 +38,15 @@
         <input name="conPassword" id="conPassword" type="password" required/>
       </div>
       <div class="termsDiv">
-        <input name="terms" id="terms" type="checkbox" required/>
+        <input name="terms" id="terms" type="checkbox"/>
         <label for="terms"> I agree to the <a href="#"> terms of service</a>.</label>
       </div>
       <div></div>
+      <h2 id="errorMessageLength">Your password is too short! Please provide a password that is at least 10 characters long.</h2>
+      <h2 id="errorMessageMatch">Your passwords do not match! Please ensure that password and confirmed password match before continuing.</h2>
       <footer class="buttons">
-        <button type="button" id="clear">Clear</button>
-        <button type="button" id="submit">Submit</button>
+        <button id="clear">Clear</button>
+        <button id="submit">Submit</button>
       </footer>
     </form>
     </div>

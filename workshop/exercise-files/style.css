@@ -71,3 +71,16 @@ button{
     font-weight: bold;
     border-radius: 10px;
 }
+h2{
+    /* display: none; */
+    background-color: pink;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 8px; 
+    font-weight: bolder;
+}
+/* .errorMessageLength{
+    display: revert; 
+}*/
